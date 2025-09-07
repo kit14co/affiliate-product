@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Wireless Bluetooth Earbuds",
+        "price": "₱799",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Wireless+Earbuds",
+        "affiliateUrl": "https://shopee.ph/product/12345?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Gadget"
+    },
+    {
+        "name": "Gaming Mouse RGB",
+        "price": "₱499",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Gaming+Mouse",
+        "affiliateUrl": "https://lazada.com.ph/product/67890?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Computer"
+    },
+    {
+        "name": "Bluetooth Speaker Portable",
+        "price": "₱1,299",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Bluetooth+Speaker",
+        "affiliateUrl": "https://shopee.ph/product/11111?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Gadget"
+    },
+    {
+        "name": "Mechanical Keyboard RGB",
+        "price": "₱2,499",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Mechanical+Keyboard",
+        "affiliateUrl": "https://lazada.com.ph/product/22222?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Computer"
+    },
+    {
+        "name": "Cordless Power Drill",
+        "price": "₱1,899",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Power+Drill",
+        "affiliateUrl": "https://shopee.ph/product/33333?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Tools"
+    },
+    {
+        "name": "Smart Watch Fitness Tracker",
+        "price": "₱3,999",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Smart+Watch",
+        "affiliateUrl": "https://lazada.com.ph/product/44444?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Gadget"
+    },
+    {
+        "name": "Laptop Cooling Stand",
+        "price": "₱899",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Laptop+Stand",
+        "affiliateUrl": "https://shopee.ph/product/55555?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Computer"
+    },
+    {
+        "name": "Professional Tool Kit Set",
+        "price": "₱1,599",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Tool+Kit+Set",
+        "affiliateUrl": "https://lazada.com.ph/product/66666?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Tools"
+    },
+    {
+        "name": "Wireless Phone Charger",
+        "price": "₱599",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Wireless+Charger",
+        "affiliateUrl": "https://shopee.ph/product/77777?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Gadget"
+    },
+    {
+        "name": "USB-C Hub Multi-Port",
+        "price": "₱1,199",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=USB+Hub",
+        "affiliateUrl": "https://lazada.com.ph/product/88888?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Computer"
+    },
+    {
+        "name": "LED Work Light",
+        "price": "₱799",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=LED+Work+Light",
+        "affiliateUrl": "https://shopee.ph/product/99999?affiliate_id=YOUR_AFFILIATE_ID",
+        "category": "Tools"
+    },
+    {
+        "name": "Smartphone Gimbal Stabilizer",
+        "price": "₱2,299",
+        "imageUrl": "https://via.placeholder.com/300x300/1E90FF/FFFFFF?text=Phone+Gimbal",
+        "affiliateUrl": "https://lazada.com.ph/product/10101?aff_id=YOUR_AFFILIATE_ID",
+        "category": "Other"
+    }
+]
